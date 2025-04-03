@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-langchain-openai
-python-dotenv
-beautifulsoup4
-pandas
-openpyxl
